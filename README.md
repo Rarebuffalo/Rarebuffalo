@@ -15,7 +15,6 @@
 
 
 
-👋 Hi, I’m **[Krishna-singh]** — a passionate **Full Stack Developer** who loves crafting end-to-end web applications with clean code, scalable architecture, and modern design.
 
 ---
 
