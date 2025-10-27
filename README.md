@@ -23,8 +23,7 @@
 - 🌱 Learning **Cloud DevOps (AWS, Docker, CI/CD)**  
 - 💬 Ask me about **JavaScript, React, Node.js, APIs, Databases, and UI/UX**  
 - ⚙️ I enjoy turning ideas into full-fledged products that solve real-world problems  
-- 🎯 Goal: Contribute to open-source & build developer tools  
-- 📫 Reach me at: **[info.krishnasingh.codes@gmail.com]**
+- 🎯 Goal: Contribute to open-source & build developer tools 
 
 ---
 
