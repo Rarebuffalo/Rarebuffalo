@@ -47,13 +47,5 @@ Agile/Scrum | System Design | Unit Testing (Jest/Mocha) | UI/UX Principles
 ### **Languages**
 Java | Python | Rust | Javascript
 
----
-
-
----
-
-
-
----
 
 
