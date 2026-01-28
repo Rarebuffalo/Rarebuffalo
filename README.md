@@ -5,9 +5,9 @@
 -->  
 
 - 🔭 I’m currently working on Cryptography
-- 🌱 I’m currently learning Rust 
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on Saas production 
-- 🤔 I’m looking for help with backend
+- 🤔 I’m looking for help with Security system
 - 💬 Ask me about coding
 - 📫 How to reach me: [info.krishnasingh.codes@gmail.com]
 - 😄 Pronouns: he/him
@@ -30,10 +30,10 @@
 ## 🛠️ Tech Stack  
 
 ### **Frontend**
-React.js | Next.js | TypeScript | Redux | Tailwind CSS | HTML | CSS | Vite  
+React.js | Next.js | TypeScript | Redux | Tailwind CSS | HTML | CSS 
 
 ### **Backend**
-Node.js | Express.js | REST APIs | GraphQL | JWT | WebSockets  
+Node.js | Express.js | REST APIs | GraphQL | JWT | WebSockets 
 
 ### **Databases**
 MongoDB | PostgreSQL | MySQL | Firebase  
@@ -41,11 +41,11 @@ MongoDB | PostgreSQL | MySQL | Firebase
 ### **DevOps & Tools**
 Git | GitHub | Docker | AWS | CI/CD | Nginx | Vercel | Netlify  
 
-### **Other Skills**
+### **Other Skills**(Beginner)
 Agile/Scrum | System Design | Unit Testing (Jest/Mocha) | UI/UX Principles  
 
 ### **Languages**
-Java | Python | Rust | Javascript
+Java | Python | C | Javascript 
 
 
 
