@@ -1,89 +1,96 @@
-## Hi, I’m Krishna 👋
+## Krishna Singh
 
-I build **backend systems and AI-powered workflows** — focused on real-world data processing, automation, and system reliability.
-
----
-
-## 🚀 What I’m Working On
-- Building **SecureLens** — an AI-powered system for processing structured + unstructured data using LLM workflows  
-- Designing **event-driven backend systems** with async processing, queues, and fault tolerance  
-- Exploring **agent-based architectures (LangGraph-style)** for multi-step automation  
+Backend-focused engineer building AI-powered systems, data pipelines, and production-grade backend services.
 
 ---
 
-## 🧠 How I Think
-I don’t just build features — I think in terms of systems:
-
-- How does this behave in production?
-- What happens when it fails?
-- How do we make it reliable, scalable, and observable?
-
-I focus on:
-- **Data pipelines and backend workflows**
-- **Async processing and event-driven systems**
-- **LLM integration into real backend systems (not just demos)**
+## What I’m Working On
+- Building SecureLens — AI-driven system for processing structured and unstructured data using LLM workflows  
+- Designing event-driven backend systems with asynchronous processing, queues, and failure handling  
+- Exploring agent-based architectures and multi-step automation workflows  
 
 ---
 
-## 🛠️ Core Stack
+## Approach
 
-**Backend & Systems**
-- Python (FastAPI, Django), Node.js  
-- REST APIs, Async Processing, Background Workers  
-- Event-driven architecture, task queues, retries, idempotency  
+I focus on building systems that go beyond functionality:
 
-**AI / LLM**
-- OpenAI APIs  
-- RAG pipelines (retrieval + generation)  
-- Prompt workflows & multi-step reasoning  
-- Agent-style orchestration  
+- How does the system behave under failure?
+- How is data processed across multiple stages?
+- How can workflows be automated reliably?
 
-**Databases**
-- PostgreSQL, MongoDB  
-- Schema design, query optimization  
-
-**Infra & Tools**
-- Redis (caching, queues)  
-- Docker, Linux  
-- AWS (basics)  
-- Git  
+My work is centered around:
+- Backend systems and APIs  
+- Data pipelines and asynchronous processing  
+- Integrating LLMs into structured workflows  
+- Designing reliable, production-oriented systems  
 
 ---
 
-## 🧩 Selected Work
+## Technical Stack
 
-### 🔹 SecureLens — AI Data Processing System
-- Built LLM-powered backend system for analyzing structured & unstructured data  
-- Designed multi-step pipelines for data extraction → processing → response generation  
-- Implemented prompt workflows and RAG-based reasoning  
+**Languages**  
+Python, Java, JavaScript, C  
 
----
+**Backend & Systems**  
+FastAPI, Django, Node.js  
+REST APIs, Async Processing, Background Workers  
+Event-driven architecture, retries, idempotency  
 
-### 🔹 Sentinel — Event-Driven Backend System
-- Built backend system handling **1000+ real-time events/day**  
-- Designed async pipelines using Redis-based worker queues  
-- Implemented retries, failure handling, and idempotent execution  
+**AI / LLM**  
+OpenAI APIs  
+RAG pipelines  
+Prompt workflows  
+Agent-based orchestration  
 
----
+**Databases**  
+PostgreSQL, MongoDB, MySQL  
+Schema design and query optimization  
 
-### 🔹 RAG-based AI System
-- Built retrieval-augmented generation pipeline with semantic search  
-- Implemented embeddings, chunking, and context-aware responses  
-- Designed backend APIs for serving AI outputs  
-
----
-
-## ⚡ What I’m Looking For
-- Backend / AI engineering roles  
-- Problems involving **data, workflows, and system design**  
-- Environments where I can **own systems end-to-end and ship to production**
+**Infrastructure & Tools**  
+Redis (caching and queues)  
+Docker, Linux  
+AWS (basics)  
+Git  
 
 ---
 
-## 📫 Contact
-- Email: workforkrishnasingh@gmail.com  
-- LinkedIn: https://linkedin.com/in/krishnasingh  
+## Selected Work
+
+### SecureLens — AI Data Processing System
+- Built backend system integrating LLMs for structured and unstructured data processing  
+- Designed multi-step pipelines for extraction, transformation, and response generation  
+- Implemented RAG-based workflows and prompt orchestration  
 
 ---
 
-> I like building systems that actually run, break, and improve — not just projects that sit in a repo.
+### Sentinel — Event-Driven Backend System
+- Built backend system handling 1000+ real-time events/day  
+- Designed asynchronous pipelines using Redis-based worker queues  
+- Implemented retry logic, failure handling, and idempotent processing  
+
+---
+
+### RAG-based AI System
+- Built retrieval-augmented generation pipeline using LLM APIs  
+- Implemented semantic search, embeddings, and context-aware responses  
+- Designed backend APIs for structured output generation  
+
+---
+
+## What I’m Looking For
+
+- Backend or AI engineering roles  
+- Systems involving data processing, workflows, and automation  
+- Opportunities where I can take ownership and build end-to-end systems  
+
+---
+
+## Contact
+
+Email: workforkrishnasingh@gmail.com  
+LinkedIn: https://linkedin.com/in/krishnasingh  
+
+---
+
+I focus on building systems that operate in real conditions — handling data, failures, and scale — not just isolated features.
