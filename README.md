@@ -1,51 +1,89 @@
-## Hi there 👋
+## Hi, I’m Krishna 👋
 
-<!--
-**Rarebuffalo/Rarebuffalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->  
-
-- 🔭 I’m currently working on SecureLens AI
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on Saas production 
-- 🤔 I’m looking for help with Security system
-- 💬 Ask me about coding
-- 📫 How to reach me: [info.krishnasingh.codes@gmail.com]
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Reality is Negotiable.
-
-
-
+I build **backend systems and AI-powered workflows** — focused on real-world data processing, automation, and system reliability.
 
 ---
 
-## 🧠 About Me  
-- 🔭 I’m currently working on **MERN / Next.js projects**  
-- 🌱 Learning **Cloud DevOps (AWS, Docker, CI/CD)**  
-- 💬 Ask me about **JavaScript, React, Node.js, APIs, Databases, and UI/UX**  
-- ⚙️ I enjoy turning ideas into full-fledged products that solve real-world problems  
-- 🎯 Goal: Contribute to open-source & build developer tools 
+## 🚀 What I’m Working On
+- Building **SecureLens** — an AI-powered system for processing structured + unstructured data using LLM workflows  
+- Designing **event-driven backend systems** with async processing, queues, and fault tolerance  
+- Exploring **agent-based architectures (LangGraph-style)** for multi-step automation  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧠 How I Think
+I don’t just build features — I think in terms of systems:
 
-### **Frontend**
-React.js | Next.js | TypeScript | Redux | Tailwind CSS | HTML | CSS 
+- How does this behave in production?
+- What happens when it fails?
+- How do we make it reliable, scalable, and observable?
 
-### **Backend**
-Node.js | Express.js | REST APIs | GraphQL | JWT | WebSockets 
+I focus on:
+- **Data pipelines and backend workflows**
+- **Async processing and event-driven systems**
+- **LLM integration into real backend systems (not just demos)**
 
-### **Databases**
-MongoDB | PostgreSQL | MySQL | Firebase  
+---
 
-### **DevOps & Tools**
-Git | GitHub | Docker | AWS | CI/CD | Nginx | Vercel | Netlify  
+## 🛠️ Core Stack
 
-### **Other Skills**(Beginner)
-Agile/Scrum | System Design | Unit Testing (Jest/Mocha) | UI/UX Principles  
+**Backend & Systems**
+- Python (FastAPI, Django), Node.js  
+- REST APIs, Async Processing, Background Workers  
+- Event-driven architecture, task queues, retries, idempotency  
 
-### **Languages**
-Java | Python | C | Javascript 
+**AI / LLM**
+- OpenAI APIs  
+- RAG pipelines (retrieval + generation)  
+- Prompt workflows & multi-step reasoning  
+- Agent-style orchestration  
 
+**Databases**
+- PostgreSQL, MongoDB  
+- Schema design, query optimization  
 
+**Infra & Tools**
+- Redis (caching, queues)  
+- Docker, Linux  
+- AWS (basics)  
+- Git  
 
+---
+
+## 🧩 Selected Work
+
+### 🔹 SecureLens — AI Data Processing System
+- Built LLM-powered backend system for analyzing structured & unstructured data  
+- Designed multi-step pipelines for data extraction → processing → response generation  
+- Implemented prompt workflows and RAG-based reasoning  
+
+---
+
+### 🔹 Sentinel — Event-Driven Backend System
+- Built backend system handling **1000+ real-time events/day**  
+- Designed async pipelines using Redis-based worker queues  
+- Implemented retries, failure handling, and idempotent execution  
+
+---
+
+### 🔹 RAG-based AI System
+- Built retrieval-augmented generation pipeline with semantic search  
+- Implemented embeddings, chunking, and context-aware responses  
+- Designed backend APIs for serving AI outputs  
+
+---
+
+## ⚡ What I’m Looking For
+- Backend / AI engineering roles  
+- Problems involving **data, workflows, and system design**  
+- Environments where I can **own systems end-to-end and ship to production**
+
+---
+
+## 📫 Contact
+- Email: workforkrishnasingh@gmail.com  
+- LinkedIn: https://linkedin.com/in/krishnasingh  
+
+---
+
+> I like building systems that actually run, break, and improve — not just projects that sit in a repo.
