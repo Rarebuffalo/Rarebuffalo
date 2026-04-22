@@ -34,6 +34,10 @@ FastAPI, Django, Node.js
 REST APIs, Async Processing, Background Workers  
 Event-driven architecture, retries, idempotency  
 
+**Frontend**  
+React, TypeScript, Vite  
+Component-based architecture, API integration  
+
 **AI / LLM**  
 OpenAI APIs  
 RAG pipelines  
@@ -50,13 +54,31 @@ Docker, Linux
 AWS (basics)  
 Git  
 
+**Core Fundamentals**  
+Data Structures & Algorithms  
+Object-Oriented Programming  
+Operating Systems  
+Computer Networks  
+
 
 ## Selected Work
+
+### SpacedCode — Workflow-driven Developer System
+- Built full-stack system combining a user-facing product with a terminal-based interface for interacting with backend data and workflows  
+- Designed API layer with persistence (Redis) and fallback handling for reliability in different runtime conditions  
+- Implemented command-driven interface to explore system state, live stats, and architecture  
+- Integrated external services (LeetCode, GitHub, WakaTime) and aggregated data through backend pipelines  
+- Focused on system behavior, failure handling, and real-time data interaction  
+#### Note - (Try: Press Cmd+K / Ctrl+K to explore system interface)
+(Deployed: https://spacedcode.vercel.app/)
+
 
 ### SecureLens — AI Data Processing System
 - Built backend system integrating LLMs for structured and unstructured data processing  
 - Designed multi-step pipelines for extraction, transformation, and response generation  
 - Implemented RAG-based workflows and prompt orchestration  
+
+(Deployed: https://securelens-frontend.vercel.app/)
 
 
 ### Sentinel — Event-Driven Backend System
