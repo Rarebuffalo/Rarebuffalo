@@ -2,14 +2,12 @@
 
 Backend-focused engineer building AI-powered systems, data pipelines, and production-grade backend services.
 
----
 
 ## What I’m Working On
 - Building SecureLens — AI-driven system for processing structured and unstructured data using LLM workflows  
 - Designing event-driven backend systems with asynchronous processing, queues, and failure handling  
 - Exploring agent-based architectures and multi-step automation workflows  
 
----
 
 ## Approach
 
@@ -25,7 +23,6 @@ My work is centered around:
 - Integrating LLMs into structured workflows  
 - Designing reliable, production-oriented systems  
 
----
 
 ## Technical Stack
 
@@ -53,7 +50,6 @@ Docker, Linux
 AWS (basics)  
 Git  
 
----
 
 ## Selected Work
 
@@ -62,21 +58,18 @@ Git
 - Designed multi-step pipelines for extraction, transformation, and response generation  
 - Implemented RAG-based workflows and prompt orchestration  
 
----
 
 ### Sentinel — Event-Driven Backend System
 - Built backend system handling 1000+ real-time events/day  
 - Designed asynchronous pipelines using Redis-based worker queues  
 - Implemented retry logic, failure handling, and idempotent processing  
 
----
 
 ### RAG-based AI System
 - Built retrieval-augmented generation pipeline using LLM APIs  
 - Implemented semantic search, embeddings, and context-aware responses  
 - Designed backend APIs for structured output generation  
 
----
 
 ## What I’m Looking For
 
@@ -84,7 +77,6 @@ Git
 - Systems involving data processing, workflows, and automation  
 - Opportunities where I can take ownership and build end-to-end systems  
 
----
 
 ## Contact
 
