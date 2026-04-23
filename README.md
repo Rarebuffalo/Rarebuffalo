@@ -103,7 +103,7 @@ Computer Networks
 ## Contact
 
 Email: workforkrishnasingh@gmail.com  
-LinkedIn: https://linkedin.com/in/krishnasingh  
+LinkedIn: https://www.linkedin.com/in/krishna-singh-8a06461b8/
 
 ---
 
