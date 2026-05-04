@@ -95,7 +95,7 @@ Computer Networks
 
 ## What I’m Looking For
 
-- Backend or AI engineering roles  
+- Backend or fullstack AI engineering roles  
 - Systems involving data processing, workflows, and automation  
 - Opportunities where I can take ownership and build end-to-end systems  
 
