@@ -107,4 +107,4 @@ LinkedIn: https://www.linkedin.com/in/krishna-singh-8a06461b8/
 
 ---
 
-I focus on building systems that operate in real conditions — handling data, failures, and scale — not just isolated features.
+I focus on building systems that operate in real conditions handling data, failures, and scale not just isolated features.
