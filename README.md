@@ -7,7 +7,8 @@ I build backend systems, AI-powered developer tools, and production-oriented ful
 My interests lie at the intersection of backend engineering, distributed systems, developer infrastructure, AI workflows, and security. I enjoy taking products from idea to deployment and working across architecture, APIs, databases, automation, and user-facing experiences.
 
 ---
-
+### Portfolio - https://krishna-portfolio-eight-iota.vercel.app/
+---
 ## What I've Been Building
 
 Over the past few years, I've independently built projects across AI, security, developer tooling, monitoring systems, finance, and automation.
