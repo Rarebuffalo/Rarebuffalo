@@ -197,11 +197,11 @@ Every generated change is manually reviewed, tested, and adapted before producti
 
 ---
 
-## Current Focus
-
-I'm currently focused on building AI-native backend systems, developer infrastructure, automation platforms, and production-ready applications that combine strong engineering fundamentals with practical AI integrations.
-
+### Current Focus
 ---
+
+I'm currently building Flientsec- a lightweight developer workstation security posture platform that continuously verifies engineering laptops against company security policies and generates audit-ready evidence without requiring enterprise MDM. (https://github.com/Rarebuffalo/Flientsec)
+
 
 ## Profiles
 
