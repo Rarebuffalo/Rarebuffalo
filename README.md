@@ -1,226 +1,57 @@
-# Krishna Singh
+# `Krishna Singh`
 
-## Backend Engineer | AI Systems Builder | Full Stack Developer
+> **Full-Stack AI Engineer** building AI-native products, backend systems, and developer infrastructure.
 
-I build backend systems, AI-powered developer tools, and production-oriented full-stack applications.
+I enjoy turning ideas into products, from architecture and APIs to AI workflows, deployment, and everything in between.
 
-My interests lie at the intersection of backend engineering, distributed systems, developer infrastructure, AI workflows, and security. I enjoy taking products from idea to deployment and working across architecture, APIs, databases, automation, and user-facing experiences.
+Currently obsessed with making software **simpler, faster, and more autonomous.**
 
----
-### Portfolio - https://krishna-portfolio-eight-iota.vercel.app/
----
-## What I've Been Building
+### Currently Building
 
-Over the past few years, I've independently built projects across AI, security, developer tooling, monitoring systems, finance, and automation.
+**FlientSec** -> A developer security platform that continuously evaluates engineering workstations against organizational security policies and generates audit-ready evidence without relying on traditional MDM solutions.
 
-Some of the projects I'm most proud of include:
-
-###  SecureLens
-
-An AI-native codebase security auditor and web infrastructure scanner that combines repository analysis with live infrastructure scanning to surface security issues and actionable insights.
-
-**Highlights**
-- AI-assisted repository analysis
-- Web infrastructure and security scanning
-- REST APIs built with FastAPI
-- PostgreSQL-backed persistence
-- Docker-based deployment
-- Self-hosted architecture
-
-**Tech Stack**
-
-Python • FastAPI • PostgreSQL • Docker • Gemini
-
-Repository:
-https://github.com/Rarebuffalo/securelens-backend
-
-Demo:
-https://www.loom.com/share/eb484ed3765443fb963f8f5634c4f7a2
+Checkout -> https://github.com/Rarebuffalo/Flientsec
 
 ---
 
-###  Sentinel
+### Things I Like Building
 
-A distributed API monitoring platform with scheduling, background workers, Redis caching, JWT authentication, webhook notifications, and deployment support.
-
-Built to explore scalable monitoring architectures and asynchronous backend workflows.
-
-**Tech Stack**
-
-TypeScript • Node.js • Redis • PostgreSQL
-
-Repository:
-https://github.com/Rarebuffalo/Sentinel
+`AI Agents` • `Backend Systems` • `Developer Tools` • `Security Products` • `Automation` • `APIs` • `Full-Stack SaaS` • `Infrastructure`
 
 ---
 
-###  OpenLLM Gateway
+### Toolbox
 
-A self-hosted gateway that provides a unified interface for multiple LLM providers through a single API surface.
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,react,nextjs,fastapi,nodejs,express,postgres,mongodb,redis,docker,git,linux,aws" />
+</p>
 
-Designed to simplify model routing and centralized AI integrations for applications.
-
-**Tech Stack**
-
-TypeScript • Bun • ElysiaJS • PostgreSQL
-
-Repository:
-https://github.com/Rarebuffalo/OpenLLM-Gateway
+**AI:** OpenAI • Gemini • LangGraph • RAG • FAISS • Prompt Engineering *(currently exploring MCP)*
 
 ---
 
-###  TradeFlow
+### Engineering Philosophy
 
-A Java-based stock candle aggregation service that reads market data and exposes aggregated OHLCV candles through REST APIs.
+> Build something useful. Ship it. Learn from users. Repeat.
 
-Built to strengthen backend engineering fundamentals around data processing and service design.
-
-**Tech Stack**
-
-Java • Apache Cassandra
-
-Repository:
-https://github.com/Rarebuffalo/TradeFlow
+I care more about solving real problems than chasing shiny technologies. My favorite work sits where **AI, backend engineering, and product design** meet.
 
 ---
 
-###  LedgerFlow
+### Around the Internet
 
-A backend-focused financial ledger system exploring transaction management and accounting workflows.
+🌐 **Portfolio** -> https://krishna-portfolio-eight-iota.vercel.app/
 
-Repository:
-https://github.com/Rarebuffalo/LedgerFlow
+💻 **GitHub** -> https://github.com/Rarebuffalo *(Projects)* • https://github.com/Krishnasingh020 *(Primary)*
 
----
+💼 **LinkedIn** -> https://www.linkedin.com/in/krishna-singh-8a06461b8/
 
-###  Assessment Creator
+🧩 **LeetCode** -> https://leetcode.com/u/krishnasingh020/
 
-An AI-powered assessment generation platform that automates question generation and PDF compilation workflows.
+𝕏 **X** -> https://x.com/rarebuffalo1
 
-Built with asynchronous processing and production-oriented backend patterns.
-
-Repository:
-https://github.com/Rarebuffalo/AssessmentCreator
+📫 **Email** -> workforkrishnasingh@gmail.com
 
 ---
 
-###  ScaleShorts
-
-An AI automation pipeline for generating short-form videos by combining LLM-generated scripts, voice synthesis, and automated media processing.
-
-Repository:
-https://github.com/Rarebuffalo/ScaleShorts
-
----
-
-## Engineering Philosophy
-
-I prefer building over theorizing.
-
-My usual workflow is:
-
-- Understand the problem
-- Design the architecture
-- Build quickly
-- Iterate based on feedback
-- Automate repetitive work
-- Continuously improve reliability and maintainability
-
-I enjoy solving backend-heavy problems involving APIs, distributed systems, AI integrations, automation, and developer tooling.
-
----
-
-## AI-Assisted Development
-
-AI is part of my day-to-day engineering workflow rather than an afterthought.
-
-I regularly use tools such as ChatGPT, Claude, and Gemini for:
-
-- Exploring architectures
-- Rapid prototyping
-- Backend implementation
-- Refactoring large codebases
-- Debugging issues
-- Documentation
-- Test generation
-
-Every generated change is manually reviewed, tested, and adapted before production use.
-
----
-
-## Technologies
-
-### Languages
-
-- Python
-- Java
-- TypeScript
-- JavaScript
-- SQL
-
-### Frontend
-
-- React
-- Next.js
-- HTML
-- CSS
-- Tailwind CSS
-
-### Backend
-
-- FastAPI
-- Django
-- Express.js
-- Node.js
-
-### Databases
-
-- PostgreSQL
-- MongoDB
-- Redis
-- SQLite
-
-### Infrastructure
-
-- Docker
-- Linux
-- Git
-- REST APIs
-- Webhooks
-
-### AI
-
-- OpenAI APIs
-- Gemini APIs
-- LangGraph
-- FAISS
-
----
-
-### Current Focus
----
-
-I'm currently building Flientsec- a lightweight developer workstation security posture platform that continuously verifies engineering laptops against company security policies and generates audit-ready evidence without requiring enterprise MDM. (https://github.com/Rarebuffalo/Flientsec)
-
-
-## Profiles
-
-**Portfolio**
-
-https://krishna-portfolio-eight-iota.vercel.app/
-
-**Projects GitHub**
-
-https://github.com/Rarebuffalo
-
-**Primary GitHub**
-
-https://github.com/krishnasingh020
-
-**LinkedIn**
-
-https://www.linkedin.com/in/krishna-singh-8a06461b8/
-
-**Email**
-
-workforkrishnasingh@gmail.com
+<sub>⭐ The best overview of my work is in the pinned repositories below.</sub>
