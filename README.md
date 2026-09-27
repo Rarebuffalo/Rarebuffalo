@@ -1,12 +1,19 @@
-# Krishna Singh
+<pre align="center">
+██╗  ██╗██████╗ ██╗███████╗██╗  ██╗███╗   ██╗ █████╗
+██║ ██╔╝██╔══██╗██║██╔════╝██║  ██║████╗  ██║██╔══██╗
+█████╔╝ ██████╔╝██║███████╗███████║██╔██╗ ██║███████║
+██╔═██╗ ██╔══██╗██║╚════██║██╔══██║██║╚██╗██║██╔══██║
+██║  ██╗██║  ██║██║███████║██║  ██║██║ ╚████║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+</pre>
 
 > Full-Stack AI Engineer building agentic systems, backend infrastructure, and AI-native products.
 
-I like building software where **AI actually does something useful** -- not just generating text, but working with data, using tools, making decisions, and becoming part of a real product.
+I like building software where **AI actually does something useful** -- working with data, using tools, making decisions, and becoming part of a real product.
 
-Most of my work sits somewhere between **AI, backend engineering, and product**. I enjoy taking an idea, figuring out how the system should work, building the APIs and AI workflows behind it, and eventually turning it into something people can actually use.
+Most of my work sits between **AI, backend engineering, and product**. I enjoy taking an idea, figuring out how the system should work, building it, and shipping something people can actually use.
 
-Right now, I'm working on **agentic AI and AI-mediated commerce**, while also building backend systems, contributing to open source, and experimenting with ideas of my own.
+Right now, I'm working on **agentic AI and AI-mediated commerce**, while building backend systems and contributing to open source.
 
 **2× Buildathon Winner · Open-Source Contributor · AI / Agentic Systems · Backend Engineering**
 
@@ -15,28 +22,29 @@ Right now, I'm working on **agentic AI and AI-mediated commerce**, while also bu
 **Full-Stack Engineer -- Stealth AI Startup**  
 `Bangalore · On-site · Sep 2026 – Present`
 
-Working on AI-native products in the **AI-mediated commerce** space, where AI systems are increasingly becoming part of how people discover, evaluate, and choose products.
+Working on AI-native products in the **AI-mediated commerce** space, building full-stack and agentic systems around AI search visibility, data quality, product intelligence, and business workflows.
 
-My work spans full-stack development, backend services, data workflows, and **agentic systems** -- building the infrastructure that turns AI-generated signals and insights into useful product and business workflows.
-
-A lot of the interesting work here sits at the intersection of **AI search visibility, data quality, product intelligence, and agentic workflows**.
+My work spans **backend services, data workflows, AI agents, and product development**.
 
 **Backend Engineer -- Rōvn**  
 `Remote · Sep 2026 – Present`
 
-Building backend infrastructure for an **AI-operated healthcare workforce platform** that brings together hiring, verification, credentialing, onboarding, and workforce readiness.
+Building backend infrastructure for an **AI-operated healthcare workforce platform** covering hiring, verification, credentialing, onboarding, and workforce readiness.
 
-The interesting part is that the platform isn't just another hiring application -- AI agents handle parts of the workflow and coordinate work across the system, while people remain involved where decisions require human judgment.
+I focus on **APIs, data flows, integrations, and infrastructure** supporting agent-driven workflows.
 
-I'm focused on the backend side of that system: **APIs, data flows, integrations, and the infrastructure that makes those agent-driven workflows reliable.**
+**Full-Stack Engineer Intern -- OpenStreem Labs**  
+`Remote · Nov 2025 – Mar 2026`
+
+Worked on backend systems and asynchronous processing workflows, with a focus on **MongoDB performance, Redis/Celery pipelines, and API integration testing**.
+
+Improved database performance for high-volume workloads and helped make background processing and deployments more reliable.
 
 ## Open Source
 
-I enjoy contributing to open source because there's something different about working on software that you didn't build yourself.
+I enjoy working on software I didn't build myself -- understanding how a codebase fits together, finding well-scoped problems, and turning them into useful contributions.
 
-A big part of my contribution process is first understanding the codebase -- how the pieces fit together, where a problem actually lives, and what the smallest useful change looks like -- before touching the code.
-
-I've been contributing to projects around **AI infrastructure, developer tooling, backend systems, and agentic workflows**, with recent work involving **WrenAI, Graphify, and InsForge** across repository investigation, bug fixes, documentation, tests, and developer tooling.
+I've contributed to projects around **AI infrastructure, developer tooling, backend systems, and agentic workflows**, including **WrenAI, Graphify, and InsForge**.
 
 ## Things I Build
 
@@ -45,42 +53,36 @@ I've been contributing to projects around **AI infrastructure, developer tooling
 - AI-native products
 - Developer tools and infrastructure
 - Security and observability systems
-- Full-stack SaaS applications
+- Full-stack applications
 - Automation and data pipelines
 
 ## Technical Focus
 
-**Languages**
-
+**Languages**  
 Python · TypeScript · JavaScript · Java
 
-**Backend**
-
+**Backend**  
 FastAPI · Django · Node.js · Express · Hono · REST APIs
 
-**Frontend**
-
+**Frontend**  
 React · Next.js · TypeScript
 
-**Data & Infrastructure**
-
+**Data & Infrastructure**  
 PostgreSQL · MongoDB · Redis · Docker · Git · GitHub Actions · Linux
 
-**AI / GenAI**
-
+**AI / GenAI**  
 Google ADK · OpenAI · Gemini · LangGraph · RAG · AI Agents · Vector Search · Prompt Engineering · Firecrawl · Langfuse
 
-**Currently Exploring**
-
+**Currently Exploring**  
 Go · MCP · Open-weight models · Local AI infrastructure · Agentic systems
 
 ## Engineering Philosophy
 
 > Understand the problem. Build the simplest system that solves it. Ship it. Learn from it.
 
-I don't particularly care about using a technology just because it's new. I care about whether it helps solve the problem better.
+I care less about using a technology because it's new and more about whether it helps solve the problem better.
 
-The work I enjoy most sits at the intersection of **AI and real software engineering** -- systems that can reason over data, use tools, interact with existing infrastructure, and perform meaningful work instead of simply generating text.
+The work I enjoy most sits at the intersection of **AI and real software engineering** -- systems that reason over data, use tools, interact with existing infrastructure, and perform meaningful work.
 
 ## Education
 
